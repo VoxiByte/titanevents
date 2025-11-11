@@ -1,0 +1,61 @@
+/* D-DIN (normale) */
+@font-face {
+    font-family: "DDIN";
+    src: url("/fonts/ddin/D-DIN.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DDIN";
+    src: url("/fonts/ddin/D-DIN-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DDIN";
+    src: url("/fonts/ddin/D-DIN-Italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* D-DIN Condensed come famiglia separata */
+@font-face {
+    font-family: "DDIN Condensed";
+    src: url("/fonts/ddin/D-DINCondensed.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DDIN Condensed";
+    src: url("/fonts/ddin/D-DINCondensed-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* D-DIN Expanded (Exp) come famiglia separata */
+@font-face {
+    font-family: "DDIN Expanded";
+    src: url("/fonts/ddin/D-DINExp.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DDIN Expanded";
+    src: url("/fonts/ddin/D-DINExp-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DDIN Expanded";
+    src: url("/fonts/ddin/D-DINExp-Italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
