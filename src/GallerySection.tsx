@@ -1,7 +1,7 @@
 import React from "react";
 import { LazyMotion, domAnimation, m } from "framer-motion";
 
-const API_BASE = import.meta?.env?.VITE_API_BASE ?? "http://titanevents-gallery-production.up.railway.app";
+const API_BASE = import.meta?.env?.VITE_API_BASE ?? "https://titanevents-gallery-production.up.railway.app";
 
 // Put this file in your project's /public folder, or update the path below accordingly
 const FALLBACK_IMAGE = "/cristiana_giovanni716.webp"; // if the backend is unreachable, use this
