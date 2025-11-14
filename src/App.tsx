@@ -211,7 +211,7 @@ export default function TitanEvents({
                         className="h-full w-full object-cover opacity-50 [image-rendering:auto] will-change-transform"
                         loading="eager"
                         decoding="async"
-                        fetchpriority="high"
+                        fetchPriority="high"
                     />
 
                     <div className="absolute inset-0">
