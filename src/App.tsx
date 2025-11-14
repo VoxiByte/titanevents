@@ -54,7 +54,7 @@ export default function TitanEvents({
                         <nav className="flex items-center justify-between px-4 sm:px-6 py-3">
                             <a href="#top" className="group inline-flex items-center gap-2">
                                 <img
-                                    src="https://www.titanevents.it/wp-content/uploads/2022/01/LOGO_OK.png"
+                                    src="LOGO_OK.png"
                                     alt="Titan Events Logo"
                                     className="h-8 sm:h-10 object-contain"
                                     loading="eager"
