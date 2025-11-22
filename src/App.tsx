@@ -54,7 +54,7 @@ export default function TitanEvents({
                         <nav className="flex items-center justify-between px-4 sm:px-6 py-3">
                             <a href="#top" className="group inline-flex items-center gap-2">
                                 <img
-                                    src="LOGO_OK.png"
+                                    src="logo.svg"
                                     alt="Titan Events Logo"
                                     className="h-8 sm:h-10 object-contain"
                                     loading="eager"
@@ -309,7 +309,7 @@ export default function TitanEvents({
 
                     <div className="flex flex-col items-center space-y-4">
                         <a
-                            href="https://www.instagram.com/"
+                            href="https://www.instagram.com/titan_events"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-amber-300 transition duration-300 hover:scale-110"
@@ -317,20 +317,12 @@ export default function TitanEvents({
                             <Instagram className="w-5 h-5" strokeWidth={1.5} />
                         </a>
                         <a
-                            href="https://www.facebook.com/"
+                            href="https://www.facebook.com/TITANSERVICE"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-amber-300 transition duration-300 hover:scale-110"
                         >
                             <Facebook className="w-5 h-5" strokeWidth={1.5} />
-                        </a>
-                        <a
-                            href="https://www.linkedin.com/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="hover:text-amber-300 transition duration-300 hover:scale-110"
-                        >
-                            <Linkedin className="w-5 h-5" strokeWidth={1.5} />
                         </a>
                     </div>
                 </div>
@@ -343,8 +335,8 @@ export default function TitanEvents({
                             Leggi le recensioni
                         </h2>
                         <p className="mt-2 text-base sm:text-lg text-zinc-600 dark:text-zinc-400">
-                            Scopri perché le coppie scelgono{" "}
-                            <span className="font-medium">Titan Events</span>
+                            Scopri perché {" "}
+                            <span className="font-medium">TitanEvents</span>
                         </p>
                     </div>
 
@@ -1270,7 +1262,7 @@ export default function TitanEvents({
 
                                                 <div className="flex items-center gap-3 pt-2">
                                                     <a
-                                                        href="https://www.instagram.com/"
+                                                        href="https://www.instagram.com/titan_events"
                                                         target="_blank"
                                                         rel="noopener noreferrer"
                                                         className="inline-flex items-center justify-center rounded-xl border border-white/10 bg-white/[0.04] p-2.5 hover:bg-white/[0.08] transition"
@@ -1279,22 +1271,13 @@ export default function TitanEvents({
                                                         <Instagram className="w-4 h-4" strokeWidth={1.5} />
                                                     </a>
                                                     <a
-                                                        href="https://www.facebook.com/"
+                                                        href="https://www.facebook.com/TITANSERVICE"
                                                         target="_blank"
                                                         rel="noopener noreferrer"
                                                         className="inline-flex items-center justify-center rounded-xl border border-white/10 bg-white/[0.04] p-2.5 hover:bg-white/[0.08] transition"
                                                         aria-label="Facebook"
                                                     >
                                                         <Facebook className="w-4 h-4" strokeWidth={1.5} />
-                                                    </a>
-                                                    <a
-                                                        href="https://www.linkedin.com/"
-                                                        target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        className="inline-flex items-center justify-center rounded-xl border border-white/10 bg-white/[0.04] p-2.5 hover:bg-white/[0.08] transition"
-                                                        aria-label="LinkedIn"
-                                                    >
-                                                        <Linkedin className="w-4 h-4" strokeWidth={1.5} />
                                                     </a>
                                                 </div>
 
@@ -1655,7 +1638,7 @@ export default function TitanEvents({
                                     <div className="lg:w-[34%]">
                                         <a href="#top" className="inline-flex items-center gap-3">
                                             <img
-                                                src="https://www.titanevents.it/wp-content/uploads/2022/01/LOGO_OK.png"
+                                                src="logo.svg"
                                                 alt="Titan Events Logo"
                                                 className="h-10 object-contain"
                                                 loading="lazy"
@@ -1857,13 +1840,13 @@ export default function TitanEvents({
                                   strokeLinecap="round"
                               />
                             </svg>
-                            Lun–Ven 9–19 · On-site 24/7
+                            Lun–Ven 9–19 · Su appuntamento
                           </span>
                                                 </li>
                                                 <li className="pt-1">
                                                     <div className="flex items-center gap-3">
                                                         <a
-                                                            href="https://www.instagram.com/"
+                                                            href="https://www.instagram.com/titan_events"
                                                             target="_blank"
                                                             rel="noopener noreferrer"
                                                             aria-label="Instagram"
@@ -1875,22 +1858,13 @@ export default function TitanEvents({
                                                             />
                                                         </a>
                                                         <a
-                                                            href="https://www.facebook.com/"
+                                                            href="https://www.facebook.com/TITANSERVICE"
                                                             target="_blank"
                                                             rel="noopener noreferrer"
                                                             aria-label="Facebook"
                                                             className="inline-flex items-center justify-center rounded-xl border border-white/10 bg-white/[0.06] p-2.5 hover:bg-white/[0.1] transition"
                                                         >
                                                             <Facebook className="w-4 h-4" strokeWidth={1.5} />
-                                                        </a>
-                                                        <a
-                                                            href="https://www.linkedin.com/"
-                                                            target="_blank"
-                                                            rel="noopener noreferrer"
-                                                            aria-label="LinkedIn"
-                                                            className="inline-flex items-center justify-center rounded-xl border border-white/10 bg-white/[0.06] p-2.5 hover:bg-white/[0.1] transition"
-                                                        >
-                                                            <Linkedin className="w-4 h-4" strokeWidth={1.5} />
                                                         </a>
                                                     </div>
                                                 </li>
