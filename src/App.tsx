@@ -579,10 +579,10 @@ export default function TitanEvents({
                                 detail:
                                     "Con un progetto di light design accurato e ben studiato in ogni particolare, trasformeremo sorprendentemente e piacevolmente la location da Voi scelta per questo giorno speciale. Come l'ambiente viene trasformato grazie all'illuminazione, così anche il Vostro sogno si trasformerà in realtà. Con l'aiuto di una wedding designer potremmo allestire la location con il mood che meglio preferite.",
                                 details: [
-                                    "Roadmap e call sheet",
-                                    "Crew & logistics",
-                                    "On-site 24/7",
-                                    "Timeline e check-list operative condivise",
+                                    "Illuminazione architetturale e funzionale",
+                                    "Taglio torta scenografici",
+                                    "Impianti audio per cerimonie e performance",
+                                    "Scenografie su misura",
                                 ],
                                 Icon: Heart as IconType,
                             },
@@ -598,10 +598,10 @@ export default function TitanEvents({
                                 detail:
                                     "Delineando le necessità e gli obiettivi dell’evento, seguendo uno studio dettagliato dell’ambiente scelto, progettando e curando l’importante aspetto audio, dando un’ottima intelligibilità. Non bisogna trascurare neppure l’aspetto visivo: il video, di forte impatto, grazie a immagini di grandi dimensioni e altissima definizione. L’illuminazione attenta mantiene attivi i partecipanti. Studiamo nei minimi dettagli i prodotti e la location: è nel dettaglio che si nota la differenza.",
                                 details: [
-                                    "Key/fill sensati",
-                                    "Look dinamici",
-                                    "RDM & Patch pulito",
-                                    "Timeline e check-list operative condivise",
+                                    "Videoproiezione e LED wall",
+                                    "Impianti audio professionali",
+                                    "Servizi streaming e traduzione simultanea",
+                                    "Quinte e pipe and drapes",
                                 ],
                                 Icon: Factory as IconType,
                             },
@@ -617,10 +617,13 @@ export default function TitanEvents({
                                 detail:
                                     "Qualsiasi sia la Vostra richiesta saremmo lieti di trovare un'ottima formula di noleggio su misura per Voi. Noleggio a lungo/medio/breve termine. Con tecnici e installatori o senza. Logistica compresa o meno.",
                                 details: [
-                                    "RF coordination",
-                                    "PA design",
-                                    "Recording/stream",
-                                    "Timeline e check-list operative condivise",
+                                    "Console compatte, cdj, mixer e desk personalizzati",
+                                    "Impianti luci scenografiche e \"Free Cable\"",
+                                    "Impianti elettrici e d'emergenza provvisori",
+                                    "Effetti speciali, spark, flame, confetti",
+                                    "Riscaldatori e raffrescatori portatili",
+                                    "Sedie, sgabelli e pouf",
+                                    "Palchi e pedane"
                                 ],
                                 Icon: Truck as IconType,
                             },
