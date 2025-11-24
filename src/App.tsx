@@ -300,8 +300,11 @@ export default function TitanEvents({
                 </div>
 
                 <div className="absolute bottom-6 left-4 z-30 hidden md:flex flex-col items-center space-y-4 text-white/80">
-                    <div className="rotate-180 [writing-mode:vertical-rl] text-[10px] tracking-[0.4em] uppercase text-white/80 mb-3">
-                        follow us
+
+                    <div className="flex flex-col items-center space-y-3">
+                        <div className="rotate-180 [writing-mode:vertical-rl] text-[10px] tracking-[0.4em] uppercase">
+                            follow us
+                        </div>
                     </div>
 
                     <div className="h-12 w-px bg-gradient-to-b from-transparent via-white/70 to-transparent animate-[pulse_3.5s_ease-in-out_infinite]" />
@@ -324,7 +327,9 @@ export default function TitanEvents({
                             <Facebook className="w-5 h-5" strokeWidth={1.5} />
                         </a>
                     </div>
+
                 </div>
+
             </section>
 
             <section id="reviews" className="py-12 sm:py-16">
