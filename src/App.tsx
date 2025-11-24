@@ -236,10 +236,9 @@ export default function TitanEvents({
               <span className="bg-clip-text text-transparent bg-gradient-to-br from-white via-white to-white/75 drop-shadow-[0_0_18px_rgba(255,255,255,0.12)]">
                 We light
               </span>
-                            <br />
+                            {" "}
                             <span className="relative inline-block">
-                <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-200 via-white to-slate-200 drop-shadow-[0_0_18px_rgba(255,255,255,0.12)]">
-                  your dream
+                <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-200 via-white to-slate-200 drop-shadow-[0_0_18px_rgba(255,255,255,0.12)]">your dream
                 </span>
                 <span className="absolute -bottom-2 left-0 h-[3px] w-full bg-gradient-to-r from-amber-300/70 via-amber-200/60 to-transparent blur-[1px]" />
               </span>
