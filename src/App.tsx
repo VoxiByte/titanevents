@@ -530,7 +530,7 @@ export default function TitanEvents({
                         <div className="lg:col-span-6 xl:col-span-5 relative">
                             <div className="aspect-[4/5] sm:aspect-[5/6] lg:aspect-[4/5] w-full overflow-hidden rounded-[1.5rem] border border-white/10 bg-white/[0.03]">
                                 <img
-                                    src={heroImageUrl}
+                                    src="image.webp"
                                     alt="Backstage TitanEvents — light & stage detail"
                                     className="h-full w-full object-cover opacity-90 will-change-transform"
                                     loading="lazy"
